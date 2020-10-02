@@ -1,4 +1,4 @@
 # first-repo
-list of bikes
+list of bikes and cars
 - ns
 - rs
